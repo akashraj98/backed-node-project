@@ -1,0 +1,27 @@
+{
+  "name": "backed-node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashraj98/backed-node-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashraj98/backed-node-project/issues"
+  },
+  "homepage": "https://github.com/akashraj98/backed-node-project#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "multer": "^1.4.5-lts.1",
+    "sequelize": "^6.28.0",
+    "sqlite3": "^5.1.4"
+  }
+}
